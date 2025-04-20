@@ -20,7 +20,7 @@ A simple web scraper that extracts quotes from [http://quotes.toscrape.com](http
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/quote-scraper.git
+   git clone https://github.com/Poonam2220/quote-scraper.git
    cd quote-scraper
    ```
 
